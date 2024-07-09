@@ -1,4 +1,47 @@
 format: jb-book
 root: index
-chapters:
-  - file: intro/intro
+
+parts:
+  - caption: Introduction
+    chapters:
+      - file: chapters/introduction/overview.md
+
+  - caption: Continuous-Time Signals
+    chapters:
+      - file: chapters/ct_signals/overview.md
+
+  - caption: Continuous-Time Systems
+    chapters:
+      - file: chapters/ct_systems/overview.md
+
+  - caption: Laplace Transforms
+    chapters:
+      - file: chapters/laplace_transforms/overview.md
+
+  - caption: Frequency Analysis – Fourier Series
+    chapters:
+      - file: chapters/fourier_series/overview.md
+
+  - caption: Frequency Analysis – Fourier Transforms
+    chapters:
+      - file: chapters/fourier_transforms/overview.md
+
+  - caption: Sampling Theory
+    chapters:
+      - file: chapters/sampling_theory/overview.md
+
+  - caption: Discrete-Time Signals and Systems
+    chapters:
+      - file: chapters/dt_signals/overview.md
+
+  - caption: Z-Transforms
+    chapters:
+      - file: chapters/z_transforms/overview.md
+
+  - caption: Fourier Analysis of Discrete-Time Systems
+    chapters:
+      - file: chapters/dt_fourier_analysis/overview.md
+
+  - caption: State-Space Representations
+    chapters:
+      - file: chapters/state_space_repr/overview.md
