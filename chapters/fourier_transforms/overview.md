@@ -1,3 +1,5 @@
 # Frequency Analysis: Fourier Transforms
 
-Building on the Fourier series, this chapter explores the Fourier transform, which extends the analysis to non-periodic signals. We will discuss the properties, computation, and practical applications of the Fourier transform.
+```{div} bigidea
+Record the row operations of the Gaussian elimination algorithm in the LU decomposition and use the decomposition $A = LU$ in backward/forward subsitution to efficiently solve a system of linear equations $A \boldsymbol{x} = \boldsymbol{b}$.
+```

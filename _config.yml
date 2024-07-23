@@ -3,3 +3,6 @@ author: "Your Name"
 logo: "logo.png"
 execute:
   execute_notebooks: off
+html:
+  extra_css:
+    - assets/css/main.css
