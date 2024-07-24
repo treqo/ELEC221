@@ -1,8 +1,8 @@
 title: "ELEC 221 Course Notes"
 author: "Your Name"
 logo: "logo.png"
+sphinx:
+  config:
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 execute:
-  execute_notebooks: off
-html:
-  extra_css:
-    - assets/css/main.css
+  execute_notebooks: cache

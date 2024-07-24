@@ -11,6 +11,10 @@
 - Analyze digital signals using the discrete Fourier transform.
 - Design and analyze state-space representations of dynamic systems.
 
+## Contact
+
+If you find any **errors** or have any **concerns** with the work please don't hesitate to <a href="https://tareqayz.com/contact" target="_blank">contact me</a>.
+
 ## License
 
 This work is licensed under the MIT License.
